@@ -63,7 +63,6 @@ Budget Minder is a web-based budget management application that helps users fore
 - Backend: Express.js, Mongoose, bcrypt, jsonwebtoken
 - Frontend: React.js, Redux, axios, react-router-dom
 
-## Contributing
-Feel free to submit issues and pull requests. For major changes, please open an issue first to discuss what you would like to change.
+
 
 
